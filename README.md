@@ -30,8 +30,10 @@ To run this project
    * Sound
 5. Ensure all associated audio files are in the processing files assets folder. 
 6. Click Run in Processing to launch the ambient noise generator.
+
 **Note: Both required libraries and all associated audio files must be available for the project to run correctly.**
 
 ## Project Status
 **Status: Completed**
+
 This project is intended to run locally through Processing 4.5.6. Any future development would likely centre around additional sound options. 

@@ -23,13 +23,14 @@ This project uses:
 ## Setup
 To run this project
 1. Download and install Processing 4.5.6.
-2. Clone or download this repository from GitHub.
-3. Open Processing and load the main .pde sketch file.
-4. Install the required libraries:
+2. Download the 'Ambient_Noise_Generator_HS' folder from this repository
+3. Place folder into your Processing folders (Apple path is /Users/(yourusername)/Documents/Processing)
+4. Open Processing and load the file.
+5. Install the required libraries:
    * ControlP5
    * Sound
-5. Ensure all associated audio files are in the processing files assets folder. 
-6. Click Run in Processing to launch the ambient noise generator.
+6. Ensure all associated audio files are in the folders assets folder. 
+7. Click Run in Processing to launch the ambient noise generator.
 
 **Note: Both required libraries and all associated audio files must be available for the project to run correctly.**
 
